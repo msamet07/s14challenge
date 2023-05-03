@@ -1,0 +1,1 @@
+Migrationları tutmak için `data/migrations` klasörünü kullanın
